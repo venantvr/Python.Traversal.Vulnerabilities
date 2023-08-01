@@ -1,4 +1,4 @@
-# dotdotslash (forked from https://github.com/jcesarstef/dotdotslash)
+# dotdotslash, forked from https://github.com/jcesarstef/dotdotslash
 
 Disclaimer : I needed something less focused on the use-case...
 
