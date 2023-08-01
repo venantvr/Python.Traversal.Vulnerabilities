@@ -1,11 +1,11 @@
 # dotdotslash, forked from https://github.com/jcesarstef/dotdotslash
 
+A tool to help you search for Directory Traversal Vulnerabilities.
+
 Disclaimer : I needed something less focused on the use-case...
 
 Made to run for many Linux VMs as possible. Still need to check for Windows.
 Tested on the https://www.vulnhub.com/entry/zico2-1,210/ image from www.vulnhub.com.
-
-A tool to help you search for Directory Traversal Vulnerabilities.
 
 ## Benchmarks
 
