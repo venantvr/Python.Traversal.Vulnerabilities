@@ -1,4 +1,6 @@
-# dotdotslash (forked)
+# dotdotslash (forked from https://github.com/jcesarstef/dotdotslash)
+
+Needed something less focused on the use-case...
 
 A tool to help you search for Directory Traversal Vulnerabilities.
 
