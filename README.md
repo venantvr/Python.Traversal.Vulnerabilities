@@ -7,9 +7,9 @@ A tool to help you search for Directory Traversal Vulnerabilities.
 ## Benchmarks
 
 Platforms that I tested to validate tool efficiency :
+
 * [DVWA](https://github.com/ethicalhack3r/DVWA) (low/medium/high)
 * [bWAPP](http://www.itsecgames.com/) (low/medium/high)
-
 
 ## Screenshots
 
